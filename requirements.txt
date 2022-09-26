@@ -1,0 +1,10 @@
+# Django>=3.0,<4.0
+django
+psycopg2-binary
+django-ninja
+django-ninja-extra
+django-ninja-jwt
+django-allauth
+python-decouple
+six
+# Pillow
